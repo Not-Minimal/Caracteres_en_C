@@ -23,3 +23,5 @@
 #define strtok	parte una cadena en una secuencia de tokens
 #define strxfrm	transforma una cadena en su forma de colación (??)
 #define strrev	invierte una cadena
+#define NULL	macro que representa la constante puntero nulo; representa un valor de puntero que no apunta a ninguna dirección válida de objeto alguno en memoria
+#define size_t	tipo entero sin signo(positivo) es el tipo devuelto por el operador sizeof
